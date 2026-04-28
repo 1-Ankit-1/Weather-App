@@ -5,6 +5,7 @@ HTML
 CSS
 JavaScript
 Weather API (like OpenWeatherMap)
+
 📌 Features:
 Search any city
 Temperature display
@@ -12,6 +13,7 @@ Humidity
 Wind speed
 Weather icon
 Error if city not found
+
 📁 Files:
 index.html
 style.css
