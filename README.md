@@ -1,20 +1,36 @@
-# Weather-App
-A website where users enter a city name and see current weather details.
-🛠 Technologies:
-HTML
-CSS
-JavaScript
-Weather API (like OpenWeatherMap)
+# 🌦️ Weather App Pro
 
-📌 Features:
-Search any city
-Temperature display
-Humidity
-Wind speed
-Weather icon
-Error if city not found
+A clean and professional weather application built using HTML, CSS, and JavaScript.
 
-📁 Files:
-index.html
-style.css
-script.js
+## 🚀 Features
+
+- Search weather by city name
+- Live temperature data
+- Humidity details
+- Wind speed
+- Clean white professional UI
+- Responsive design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- OpenWeather API
+
+## 📂 Project Structure
+
+weather-app-pro/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+## ⚙️ Setup
+
+1. Download project files
+2. Open `script.js`
+3. Replace:
+
+```javascript
+YOUR_API_KEY
